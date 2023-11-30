@@ -1,0 +1,18 @@
+"""
+#num = int(input("Enter a number: "))
+num=12333221
+for i in range(0,5):
+    
+    for y in range(i+1):
+        print("* ",end="")
+    print("\r")    
+"""
+"""m=4
+for i in range(0,5):
+    for x in range(m):
+        print(" ",end="")
+    m=m-1
+    for y in range(i+1):
+        print("* ",end="")
+    print("\r") """
+
